@@ -1,0 +1,15 @@
+header{
+    background-color: rgb(185, 196, 44);
+    
+    }
+font{
+    color: rgb(21, 131, 221);
+    font-family: Impact,  'Arial Narrow Bold', sans-serif;
+}
+p{
+    border: dotted rgb(46, 15, 224);
+}
+h1{
+    margin: 20px;
+    padding: 5px;
+}
